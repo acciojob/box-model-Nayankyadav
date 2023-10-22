@@ -12,6 +12,7 @@ body, h1, p {
     padding: 20px; /* Add padding */
     border: 2px solid #000; /* Add a border */
     text-align: center; /* Center the inner elements */
+	background-color:lightgrey;
 }
 
 /* Style the colored blocks (circles) */
